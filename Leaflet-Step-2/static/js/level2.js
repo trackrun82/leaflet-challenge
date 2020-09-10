@@ -14,7 +14,7 @@ function createFeatures(earthquakeData) {
   // Define a function we want to run once for each feature in the features array
   // Give each feature a popup describing the place, time, magnitude and significance of the earthquake
   function onEachFeature(feature, layer) {
-    layer.bindPopup(`<h4 legend>Earthquake: ${feature.properties.place}</h4><hr>
+    layer.bindPopup(`<h3>Earthquake: ${feature.properties.place}</h3><hr>
     <p info>Time: ${new Date(feature.properties.time)}</p><hr>
     <p>Magnitude: ${feature.properties.mag}</p><hr>
     <p>Significance: ${feature.properties.sig}</p>`);
