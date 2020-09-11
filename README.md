@@ -8,7 +8,7 @@ The goal of this homework was to form a map that showed earthquake and fault dat
 ### Fault Data
 [Fault data](https://github.com/trackrun82/leaflet-challenge/blob/master/Leaflet-Step-2/static/data/qfaults_latest_quaternary.geojson) - provided in data folder
 
-##Level 1 - Basic map
+## Level 1 -
 [Basic map](https://github.com/trackrun82/leaflet-challenge/tree/master/Leaflet-Step-1)
 
 A basic map was created using Leaflet that plots all of the earthquakes in the past month based on their longitude and latitude.
@@ -17,7 +17,7 @@ Earthquakes with higher magnitudes appear larger and those with higher significa
 A legend was also formed to show the significance color levels.
 Popups provide additional information about the earthquake when a marker is clicked.
 
-##Level 2 - Advanced map
+## Level 2 -
 [Advanced map](https://github.com/trackrun82/leaflet-challenge/tree/master/Leaflet-Step-2)
 
 In addition to the basic map, the advanced map included the fault data as well.
