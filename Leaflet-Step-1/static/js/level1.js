@@ -1,5 +1,8 @@
 // code for creating Basic Map (Level 1)
 
+// Store our API endpoint inside queryUrl
+var queryUrl = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/1.0_month.geojson";
+
 // Create function for creating map
 function createMap(earthquakes) {
 
@@ -84,7 +87,5 @@ function createMarkers(response) {
   createMap(L.layerGroup(quakeMarkers));
 };
 
-// legend.addTo(map);
-
 // Perform an API call to the Earthquake API to get info. Call createMarkers when complete
-d3.json("https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/1.0_month.geojson", createMarkers)
+d3.json(queryUrl, createMarkers)
