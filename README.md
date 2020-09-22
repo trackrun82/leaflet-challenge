@@ -1,4 +1,4 @@
-# leaflet-challenge
+# Leaflet Homework - Visualizing Data with Leaflet
 
 The goal of this homework was to form a map that showed earthquake and fault data.
 
@@ -11,11 +11,11 @@ The goal of this homework was to form a map that showed earthquake and fault dat
 ## Level 1 -
 [Basic map](https://github.com/trackrun82/leaflet-challenge/tree/master/Leaflet-Step-1)
 
-A basic map was created using Leaflet that plots all of the earthquakes in the past month based on their longitude and latitude.
-Data markers were added and they reflect the magnitude of the earthquake in their size and and the significance of earthquake in their color. 
-Earthquakes with higher magnitudes appear larger and those with higher significance appear darker in color.
-A legend was also formed to show the significance color levels.
-Popups provide additional information about the earthquake when a marker is clicked.
+* A basic map was created using Leaflet that plots all of the earthquakes in the past month based on their longitude and latitude.
+* Data markers were added and they reflect the magnitude of the earthquake in their size and and the significance of earthquake in their color. 
+* Earthquakes with higher magnitudes appear larger and those with higher significance appear darker in color.
+* A legend was also formed to show the significance color levels.
+* Popups provide additional information about the earthquake when a marker is clicked.
 
 ## Level 2 -
 [Advanced map](https://github.com/trackrun82/leaflet-challenge/tree/master/Leaflet-Step-2)
