@@ -17,7 +17,7 @@ The goal of this homework was to form a map that showed earthquake and fault dat
 * A legend was also formed to show the significance color levels.
 * Popups provide additional information about the earthquake when a marker is clicked.
 
-![Basic Map](images/Leaflet Step 1 Map.gif)
+[Basic Map](https://media.giphy.com/media/RXkOySkBHLfASJFEYj/giphy.gif)
 
 ## Level 2 -
 [Advanced map](https://github.com/trackrun82/leaflet-challenge/tree/master/Leaflet-Step-2)
