@@ -17,7 +17,7 @@ The goal of this homework was to form a map that showed earthquake and fault dat
 * A legend was also formed to show the significance color levels
 * Popups provide additional information about the earthquake when a marker is clicked
 
-![Basic Map](images/Leaflet Step 1 Map.gif)
+![Basic Map](images/'Leaflet Step 1 Map.gif')
 
 ## Level 2 -
 [Advanced map](https://github.com/trackrun82/leaflet-challenge/tree/master/Leaflet-Step-2)
@@ -28,6 +28,6 @@ The goal of this homework was to form a map that showed earthquake and fault dat
 * Two base maps along with our two different data sets were added into overlays that can be turned on and off independently
 * Popups provide additional information about the fault when a fault-line is clicked
 
-![Advanced Map](images/Leaflet Step 2 Map.gif)
+![Advanced Map](images/'Leaflet Step 2 Map.gif')
 
 
