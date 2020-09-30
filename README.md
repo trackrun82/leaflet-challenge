@@ -30,4 +30,10 @@ The goal of this homework was to form a map that showed earthquake and fault dat
 
 ![Level 2 Map](images/Leaflet_Step2Map.gif)
 
+# Conclusions
+
+Looking at the earthquakes overlaid on top of the most active faults, the majority of the activity does seem to cluster around the active faults as would be expected.
+However, this doesn't necessarily mean that the highest magnitude and intensity of the earthquakes will occur on these same faults.
+This means that other factors come into play that may not be easily measured and/or predicted.
+
 
