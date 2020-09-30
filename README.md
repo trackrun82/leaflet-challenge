@@ -3,10 +3,10 @@
 The goal of this homework was to form a map that showed earthquake and fault data.
 
 ### Earthquake Data
-[Earthquake website](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/1.0_month.geojson "USGS Website") - last month's Earthquake data
+[Earthquake website](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/1.0_month.geojson "USGS Website") - the USGS site that provides Earthquake data for the last month
 
 ### Fault Data
-[Fault data](https://github.com/trackrun82/leaflet-challenge/blob/master/Leaflet-Step-2/static/data/qfaults_latest_quaternary.geojson) - provided in data folder
+[Fault data](https://github.com/trackrun82/leaflet-challenge/blob/master/Leaflet-Step-2/static/data/qfaults_latest_quaternary.geojson) - was provided and placed in data folder
 
 ## Level 1 -
 [Level 1 map](https://github.com/trackrun82/leaflet-challenge/tree/master/Leaflet-Step-1)
@@ -32,8 +32,11 @@ The goal of this homework was to form a map that showed earthquake and fault dat
 
 # Conclusions
 
+The website was published and hosted at [GitHub](https://trackrun82.github.io/leaflet-challenge/)
+
 Looking at the earthquakes overlaid on top of the most active faults, the majority of the activity does seem to cluster around the active faults as would be expected.
 However, this doesn't necessarily mean that the highest magnitude and intensity of the earthquakes will occur on these same faults.
-This means that other factors come into play that may not be easily measured and/or predicted.
+This means that other factors come into play that may not be easily measured and/or predicted.  
+The significance level would make sense to go up in more heavily populated areas as the damage would tend to be greater with more things to damage.  This isn't as easily seen on the map without another overlay of population by area.
 
 
